@@ -2,4 +2,10 @@
 Build your own PaaS like Heroku: https://dokku.com
 
 ### Building CLIs    
-1. https://github.com/casey/just just for creating/running project specific things
+Creating CLIs for projects https://github.com/casey/just 
+
+### Expose local env to world 
+Ngrok https://ngrok.com 
+
+### Securely send information 
+https://github.com/magic-wormhole/magic-wormhole
