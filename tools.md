@@ -12,3 +12,6 @@ https://github.com/magic-wormhole/magic-wormhole
 
 ### Text to speech 
 https://neets.ai
+
+### Db tools 
+Visual schema represantion https://chartdb.io
