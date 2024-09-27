@@ -9,3 +9,6 @@ Ngrok https://ngrok.com
 
 ### Securely send information 
 https://github.com/magic-wormhole/magic-wormhole
+
+### Text to speech 
+https://neets.ai
