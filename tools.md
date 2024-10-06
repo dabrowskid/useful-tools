@@ -15,3 +15,6 @@ https://neets.ai
 
 ### Db tools 
 Visual schema represantion https://chartdb.io
+
+### Mocking 
+REST Api mocking https://jsonplaceholder.typicode.com 
