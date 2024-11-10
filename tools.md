@@ -18,3 +18,6 @@ Visual schema represantion https://chartdb.io
 
 ### Mocking 
 REST Api mocking https://jsonplaceholder.typicode.com 
+
+### Shell 
+Scripts error handling https://jsdev.space/error-handling-bash/?utm_source=unknownews
