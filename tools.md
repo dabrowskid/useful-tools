@@ -21,3 +21,6 @@ REST Api mocking https://jsonplaceholder.typicode.com
 
 ### Shell 
 Scripts error handling https://jsdev.space/error-handling-bash/?utm_source=unknownews
+
+### Products
+Cool icon generator https://aiicongen.com
