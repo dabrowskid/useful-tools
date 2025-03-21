@@ -24,3 +24,6 @@ Scripts error handling https://jsdev.space/error-handling-bash/?utm_source=unkno
 
 ### Products
 Cool icon generator https://aiicongen.com
+
+### Feature toggle solution
+https://github.com/flipt-io/flipt
